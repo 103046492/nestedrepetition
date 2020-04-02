@@ -10,9 +10,9 @@ namespace nestedrepetition
             String inputString = Console.ReadLine();
             int input = int.Parse(inputString);
 
-            for(int row = input; row >= 0; row++)
+            for(int row = 0; row <= input; row++)
             {
-                for(int column = row; column >= 0; column++)
+                for(int column = 0; column <= row; column++)
                 {
                     Console.Write("X");
                 }
