@@ -1,0 +1,13 @@
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.csprojAssemblyReference.cache
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.csproj.CoreCompileInputs.cache
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.AssemblyInfoInputs.cache
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.AssemblyInfo.cs
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\bin\Debug\netcoreapp3.1\nestedrepetition.exe
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\bin\Debug\netcoreapp3.1\nestedrepetition.deps.json
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\bin\Debug\netcoreapp3.1\nestedrepetition.runtimeconfig.json
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\bin\Debug\netcoreapp3.1\nestedrepetition.runtimeconfig.dev.json
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\bin\Debug\netcoreapp3.1\nestedrepetition.dll
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\bin\Debug\netcoreapp3.1\nestedrepetition.pdb
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.dll
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.pdb
+C:\Users\Samir\OneDrive\Desktop\repodir\nestedrepetition\obj\Debug\netcoreapp3.1\nestedrepetition.genruntimeconfig.cache
